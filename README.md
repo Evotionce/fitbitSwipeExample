@@ -1,6 +1,6 @@
 ## Getting Started
 
-To use the **Swipe Controller** in your own Project copy the [file](). The [index.view]() gives an example of the swipe area. Those *id's* correlate with the variables *VIEWS* and *SWIPE_ELEMENT* of the **Swipe Controller**
+To use the **Swipe Controller** in your own Project copy the [file](https://github.com/Evotionce/fitbitSwipeExample/blob/main/app/SwipeController.js). The [index.view](https://github.com/Evotionce/fitbitSwipeExample/blob/main/resources/index.view) gives an example of the swipe area. Those *id's* correlate with the variables *VIEWS* and *SWIPE_ELEMENT* of the **Swipe Controller**
 
 *Example consumption:*
 ``` javascript
