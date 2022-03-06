@@ -1,0 +1,28 @@
+{
+  "devDependencies": {
+    "@fitbit/sdk": "~6.0.0",
+    "@fitbit/sdk-cli": "^1.7.3"
+  },
+  "scripts": {
+    "build": "fitbit-build",
+    "debug": "fitbit"
+  },
+  "fitbit": {
+    "appUUID": "984cfac2-4f2c-46a2-bb0d-53a27adaefa0",
+    "appType": "app",
+    "appDisplayName": "swipeExample",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#2196f3",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "atlas",
+      "vulcan"
+    ],
+    "i18n": {
+      "en-US": {
+        "name": "swipeExample"
+      }
+    },
+    "defaultLanguage": "en-US"
+  }
+}

@@ -1,0 +1,28 @@
+.defaultText {
+  font-size: 32;
+  font-family: System-Regular;
+  font-weight: regular;
+  text-length: 32;
+}
+
+.text-show {
+  display: inline;
+  text-length: 30;
+  text-anchor: middle;
+  x:"50%"; 
+  y:"50%+15";
+}
+
+.text-hide {
+  display: none;
+}
+
+.nav-show {
+  display: inline;
+  fill: darkgray;
+}
+
+.nav-hide {
+  display: none;
+  fill="silver"
+}
